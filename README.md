@@ -1,4 +1,4 @@
-# Spotify Playlist Color Analyzer
+# Spotify Playlist Color Sorter - SpotiSort
 
 This Python script analyzes the colors of album covers in a Spotify playlist and displays the dominant colors along with the closest rainbow color for each track.
 
